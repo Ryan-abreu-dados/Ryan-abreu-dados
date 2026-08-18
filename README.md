@@ -1,6 +1,6 @@
 # Olá, eu sou o Ryan 👋
 
-Desenvolvedor focado em **engenharia de dados** e **aplicações full-stack**, trabalhando com arquitetura de dados em camadas medoto Medalion - automações e sistemas internos em produção.
+Desenvolvedor focado em **engenharia de dados** e **aplicações full-stack**, trabalhando com arquitetura de dados em camadas método Medalion - automações e sistemas internos em produção.
 
 - 🔭 Atualmente atuo no desenvolvimento e manutenção de sistemas internos (jurídico e CRM), com foco em automações, arquitetura de dados e performance de banco.
 - 🛠️ Trabalho no dia a dia com React, TypeScript, Supabase (Postgres) e automações via n8n.
