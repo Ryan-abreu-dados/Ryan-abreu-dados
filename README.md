@@ -25,15 +25,6 @@ Desenvolvedor focado em **engenharia de dados** e **aplicações full-stack**, t
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-
-## 📊 GitHub Stats
-
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-abreu-dados&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-abreu-dados&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Ryan-abreu-dados&theme=radical)
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-breu-da-silva/)
