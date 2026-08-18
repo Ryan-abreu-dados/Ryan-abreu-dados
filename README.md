@@ -25,12 +25,6 @@ Desenvolvedor focado em **engenharia de dados** e **aplicações full-stack**, t
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## 📌 Projetos em destaque
-
-- **Sistema de gestão jurídica** — plataforma interna para escritório de advocacia (React, TypeScript, Supabase), com automações e módulo de tarefas.
-- **CRM interno** — gestão de leads, atendimento e funil comercial (React, Supabase, motor de automações via gatilhos/condições/ações).
-- **Arquitetura de dados em camadas (bronze/silver/gold)** — pipeline de replicação e transformação de dados (CDC, dimensões, fatos) para BI e relatórios.
-- **[Portfólio pessoal](https://github.com/Ryan-abreu-dados/ryanabreu-516e34f2)** — projeto público com React, TypeScript e Framer Motion.
 
 ## 📊 GitHub Stats
 
